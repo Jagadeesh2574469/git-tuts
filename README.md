@@ -1,1 +1,1 @@
-# git-tuts
+# git tuts
